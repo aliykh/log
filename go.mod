@@ -1,4 +1,4 @@
-module gitlab.hamkorbank.uz/libs/log
+module github.com/aliykh/log
 
 go 1.17
 
